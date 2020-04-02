@@ -1,0 +1,4 @@
+*.exe
+/target/
+/bin/
+/test-output/
